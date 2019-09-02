@@ -1,1 +1,2 @@
 Schöne Grüßegit status
+new line in TXT file
